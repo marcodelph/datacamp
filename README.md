@@ -20,4 +20,23 @@ Coleção de projetos que realizei no [__Datacamp__](https://app.datacamp.com/le
 
   **Principais Competências e Tecnologias:** Python, Pandas, Engenharia de Dados, Limpeza e Transformação de Dados (Data Wrangling), Integração de Dados.
 
+  - [__SQL: Análise e Limpeza de Dados com SQL Avançado em PostgreSQL__](https://github.com/marcodelph/datacamp/tree/main/Analyzing%20and%20Formatting%20PostgreSQL%20Sales%20Data)
+
+  Neste projeto, utilizei SQL avançado para realizar tarefas de limpeza e análise em um banco de dados PostgreSQL de uma grande loja. Desenvolvi duas consultas complexas para resolver desafios comuns de dados: a primeira utiliza Funções de Janela (Window Functions) e CTEs para calcular e rankear os 5 produtos mais vendidos em cada categoria. A segunda implementa uma lógica de imputação para preencher valores de quantidade ausentes, calculando um preço unitário estimado com base em dados históricos para garantir a integridade do dataset.
+
+  **Principais Competências e Tecnologias:** SQL, PostgreSQL, Limpeza de Dados, Análise de Dados, Funções de Janela (Window Functions), CTEs (Common Table Expressions), Imputação de Dados.
+
+  - [__Análise de Investimentos com SQL: Identificando Setores de Unicórnios em Alta__](https://github.com/marcodelph/datacamp/tree/main/Analyzing%20Unicorn%20Companies)
+
+  Este projeto de análise de dados fornece insights para uma firma de investimentos sobre tendências em empresas de alto crescimento (unicórnios). Utilizando uma consulta SQL avançada, identifiquei as três indústrias com o maior número de novos unicórnios entre 2019 e 2021. A consulta, estruturada com Expressões de Tabela Comuns (CTEs), primeiro isola os setores de melhor performance e, em seguida, calcula o número de novas empresas e a média de sua avaliação (valuation) para cada ano, permitindo uma visão clara sobre a evolução e o potencial de cada setor.
+
+  **Principais Competências e Tecnologias:** SQL, Análise de Dados, Análise de Investimentos, CTEs (Common Table Expressions), Agregação de Dados.
+
+- [__Controle de Qualidade em Manufatura com SQL Avançado__](https://github.com/marcodelph/datacamp/tree/main/Evaluate%20a%20Manufacturing%20Process)
+
+  Neste projeto, desenvolvi um sistema de monitoramento para controle de qualidade em um processo de manufatura, aplicando os princípios do Controle Estatístico de Processo (SPC). Utilizando Funções de Janela (Window Functions) em SQL, criei uma consulta que calcula dinamicamente os limites de controle superior (UCL) e inferior (LCL) para a altura de um produto, com base em uma janela móvel das últimas cinco medições por operador. O sistema gera um alerta booleano sempre que uma peça excede esses limites, permitindo a identificação imediata de desvios no processo.
+
+  **Principais Competências e Tecnologias:** SQL, PostgreSQL, Funções de Janela (Window Functions), CTEs, Análise de Qualidade.
+
+
 
