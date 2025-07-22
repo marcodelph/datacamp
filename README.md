@@ -38,5 +38,16 @@ Coleção de projetos que realizei no [__Datacamp__](https://app.datacamp.com/le
 
   **Principais Competências e Tecnologias:** SQL, PostgreSQL, Funções de Janela (Window Functions), CTEs, Análise de Qualidade.
 
+  - [__Análise de Dados para ONGs com SQL Avançado__](https://github.com/marcodelph/datacamp/tree/main/Impact%20Analysis%20of%20GoodThought%20NGO%20Initiatives)
+
+  Neste projeto de análise de dados, desenvolvi consultas SQL para a ONG "GoodThought" para extrair insights sobre a performance e o financiamento de seus projetos. A primeira consulta identifica os cinco projetos com maior arrecadação, agregando o total de doações por tipo de doador para entender as principais fontes de financiamento. A segunda consulta é mais complexa, utilizando Funções de Janela (Window Functions) e CTEs para determinar o projeto de maior impacto em cada região geográfica, garantindo que apenas projetos que receberam doações fossem considerados.
+
+  **Principais Competências e Tecnologias:** SQL, PostgreSQL, Análise de Dados, Funções de Janela (Window Functions), CTEs (Common Table Expressions), Agregação de Dados.
+
+- [__Análise e Limpeza de Catálogo de Produtos com SQL__]([INSERIR LINK AQUI])
+
+  Este projeto aborda um ciclo completo de preparação e análise de dados para a rede de supermercados "FoodYum". Utilizando SQL, iniciei com uma avaliação da qualidade dos dados para identificar a quantidade de valores ausentes em colunas críticas. Em seguida, desenvolvi uma consulta de limpeza abrangente para tratar os dados faltantes com base em regras de negócio específicas — como imputar medianas, valores padrão ou a string "Unknown" — e para padronizar formatos. Por fim, realizei uma análise exploratória para agregar e extrair insights, como a faixa de preço (mínimo e máximo) para cada categoria de produto.
+
+  **Principais Competências e Tecnologias:** SQL, PostgreSQL, Limpeza de Dados (Data Cleaning), Análise Exploratória de Dados (EDA), Agregação de Dados.
 
 
