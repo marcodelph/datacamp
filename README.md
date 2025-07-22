@@ -8,4 +8,16 @@ Coleção de projetos que realizei no [__Datacamp__](https://app.datacamp.com/le
   
   **Principais Competências e Tecnologias:** Python, Pandas, Scikit-learn, Análise Exploratória de Dados (EDA), Limpeza de Dados, Engenharia de Features, Modelagem Preditiva (Regressão).
 
+ - [__AI Engineer: Previsão de Compra de Clientes com PyTorch e Pandas__](https://github.com/marcodelph/datacamp/tree/main/Project%3A%20AI%20Engineer%20for%20Data%20Scientists%20Associate%20Practical%20Exam)
+
+  Este projeto demonstra a construção de um sistema de previsão de compras de ponta a ponta. O processo inicia com a limpeza de dados brutos, tratando valores ausentes com estratégias de imputação (mediana, média). Em seguida, as features são preparadas para o modelo através de normalização (Min-Max scaling) e codificação (one-hot encoding). Por fim, uma rede neural é construída e treinada com PyTorch para classificar se um cliente irá ou não realizar uma compra, aplicando o modelo treinado para fazer previsões em um conjunto de validação.
+
+  **Principais Competências e Tecnologias:** Python, Pandas, Scikit-learn, PyTorch, Limpeza de Dados, Engenharia de Features, Redes Neurais, Modelagem de Classificação.
+
+  - [__Engenharia de Dados: Pipeline de Limpeza e Unificação de Dados de Saúde__](https://github.com/marcodelph/datacamp/tree/main/Data%20Engineer%20Certification%20-%20Practical%20Exam%20-%20Supplement%20Experiments)
+
+  Este projeto resolve um desafio de engenharia de dados ao centralizar quatro fontes de dados distintas (perfis de usuário, métricas de saúde, uso de suplementos e metadados de experimentos) em um único dataset coeso e pronto para análise. Desenvolvi uma função em Python que automatiza todo o processo de ETL (Extração, Transformação e Carga): realizando a junção estratégica das tabelas, tratando valores ausentes, convertendo unidades (mg para gramas), extraindo valores numéricos de strings e criando novas features, como faixas etárias, para enriquecer a análise.
+
+  **Principais Competências e Tecnologias:** Python, Pandas, Engenharia de Dados, Limpeza e Transformação de Dados (Data Wrangling), Integração de Dados.
+
 
